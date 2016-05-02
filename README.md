@@ -1,5 +1,7 @@
 # Game-Resources
-Some Game Resources I've made
+Game Resources Made By
+Kris Occhipinti
+http://filmsbykris.com
 
 #Notes
 To create new tile set from images using imagemagick
